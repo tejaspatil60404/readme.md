@@ -23,17 +23,17 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="Tejas Patil">
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="Tejas Patil">
       </a>
     </td>
    <td align="center">
   <a href="https://github.com/RAFIKSHA" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="Tejas Patil">
   </a>
 </td>
 
